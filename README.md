@@ -7,10 +7,10 @@
 - 🥅 2021 Goals: Try to contribute more to Open Source projects
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&custom_title="Github Stats")](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 ____
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envy13&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envy13&langs_count=6&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
 
