@@ -1,35 +1,37 @@
 ### Hi there, I'm Raza 👋
 
-## I'm a Working as Senior Mobile Developer at Arrive[arriveLinkedIn]
+## I'm a Working as Senior Mobile Developer at Arrive
 
-- 🌱 I’m currently learning NodeJs 🤣
-- 👯 I’m looking to Freelance
+- 🌱 I’m currently learning NodeJs
+- 👨‍💻 I’m looking to Freelance
 - 🥅 2021 Goals: Try to contribute more to Open Source projects
+___ 
 
+### Languages and Tools:
+[<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png"/>]
+[<img align="left" alt="NodeJs" width="26px" src="https://image.flaticon.com/icons/png/512/919/919825.png"/>]
+[<img align="left" alt="Java Android" width="26px" src="https://lh3.googleusercontent.com/proxy/ad2C_sUCgjrOEgd5feMm_NkmOE3FD_mxuWLFHT3Lu_xUERvZnwUAOmAM2R7syRU8CrFOrp9rH2bkZyGcGqEvO4LSPd-WNvyxLoeL8v_x-VCJ-w"/>]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />]
+<br />
 
+### Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-____
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envy13&langs_count=6&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envy13&langs_count=8&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Raza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 
-<br />
-<br />
+
 
 [Arrive]: https://www.linkedin.com/company/arriveschool/
-[twitter]: https://twitter.com/raza_nkv
 [linkedin]: https://www.linkedin.com/in/raza-abbas-86981a154/
 
