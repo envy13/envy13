@@ -1,16 +1,16 @@
 ### Hi there, I'm Raza 👋
 
-## I'm a Working as Senior Mobile Developer at Arrive[arriveLinkedIn]
+## I'm a Working as Senior Mobile Developer at [arriveLinkedIn]
 
 - 🌱 I’m currently learning NodeJs 🤣
 - 👯 I’m looking to Freelance
 - 🥅 2021 Goals: Try to contribute more to Open Source projects
 
 
-[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&custom_title=Github Stats)](https://github.com/anuraghazra/github-readme-stats)
 ____
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envy13)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
 
@@ -43,7 +43,7 @@ ____
 <br />
 <br />
 
-[arriveLinkedIn]: https://www.linkedin.com/company/arriveschool/
+[Arrive]: https://www.linkedin.com/company/arriveschool/
 [twitter]: https://twitter.com/raza_nkv
 [linkedin]: https://www.linkedin.com/in/raza-abbas-86981a154/
 
