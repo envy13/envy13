@@ -14,7 +14,7 @@ ___
 [<img align="left" alt="Java Android" width="26px" src="https://lh3.googleusercontent.com/proxy/ad2C_sUCgjrOEgd5feMm_NkmOE3FD_mxuWLFHT3Lu_xUERvZnwUAOmAM2R7syRU8CrFOrp9rH2bkZyGcGqEvO4LSPd-WNvyxLoeL8v_x-VCJ-w"/>]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />]
-[<img align="left" alt="Jira" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCveFxCPxYQCHrpjBfEOipwpiIOUS7tvcVgYHHKOMr_-zo4nq1TCziMg5lV1-1LaNjPF4&usqp=CAU"/>]
+[<img align="left" alt="Jira" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSp_lGWOdt_RuFiipnetNA9KTmmBvh-I0slNt2DB2PTy0zX3gdad4G35e86RJSLS4XYF8&usqp=CAU"/>]
 ___
 
 ### Stats:
