@@ -8,12 +8,13 @@
 ___ 
 
 ### Languages and Tools:
+
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png"/>]
 [<img align="left" alt="NodeJs" width="26px" src="https://image.flaticon.com/icons/png/512/919/919825.png"/>]
 [<img align="left" alt="Java Android" width="26px" src="https://lh3.googleusercontent.com/proxy/ad2C_sUCgjrOEgd5feMm_NkmOE3FD_mxuWLFHT3Lu_xUERvZnwUAOmAM2R7syRU8CrFOrp9rH2bkZyGcGqEvO4LSPd-WNvyxLoeL8v_x-VCJ-w"/>]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />]
-___
+___ 
 
 ### Stats:
 
@@ -25,7 +26,7 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envy13&langs_count=8&hide_title=true" />
 </a>
 
-____
+___ 
 
 ### Connect with me:
 
