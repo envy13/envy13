@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13)](https://github.com/anuraghazra/github-readme-stats)
+[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
