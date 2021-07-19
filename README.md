@@ -1,6 +1,8 @@
 ### Hi there, I'm Raza 👋
 
-## I'm a Working as Senior Mobile Developer at ARRIVE
+## I'm a Working as Senior Mobile Developer at Arrive Inc.
+
+![](https://komarev.com/ghpvc/?username=envy13&label=PROFILE+VIEWS&color=green&style=flat-square)
 
 - 🌱 I’m currently learning NodeJs
 - 👨‍💻 I’m looking to Freelance
