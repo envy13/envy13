@@ -1,6 +1,6 @@
 ### Hi there, I'm Raza 👋
 
-## I'm a Working as Senior Mobile Developer at [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][arriveLinkedin]](https://www.linkedin.com/company/arriveschool/)
+## I'm a Working as Senior Mobile Developer at [<img align="left" alt="codeSTACKr.com" width="30px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFWbzjEM-PyNQ/company-logo_200_200/0/1613754938169?e=1634774400&v=beta&t=thQUt-EesgF2p3faVjkIeBN5MEH0X_jVE63-WrDgMbM" />][arriveLinkedin]](https://www.linkedin.com/company/arriveschool/)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
