@@ -15,10 +15,17 @@ ___
 [<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />]
 <br />
 
-### Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envy13&langs_count=8&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+### Stats:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&hide_title=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envy13&langs_count=8&hide_title=true" />
+</a>
 
 ____
 
