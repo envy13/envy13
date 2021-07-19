@@ -2,15 +2,15 @@
 
 ## I'm a Working as Senior Mobile Developer at [<img align="right" width="30px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFWbzjEM-PyNQ/company-logo_200_200/0/1613754938169?e=1634774400&v=beta&t=thQUt-EesgF2p3faVjkIeBN5MEH0X_jVE63-WrDgMbM" />][arriveLinkedin]
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
@@ -43,41 +43,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [React 18 & TypeScript | How to Enable TypeScript in React 18](https://www.youtube.com/watch?v=bA5pZnEE0yA)
-- [7 HOUR React Course, Quantum Computing, and Top CSS Frameworks 🤯 // STACKr News Weekly - Issue 2](https://www.youtube.com/watch?v=z8RAL5f-SF0)
-- [Top VS Code Updates | v1.58 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=lWC3bSuADRw)
-- [AI Copilots, Dinosaurs, and AWS 🤯 // STACKr News Weekly - Issue 1](https://www.youtube.com/watch?v=7kmb7-tFuXM)
-- [First Look at GitHub Copilot in VS Code | Just Another AI Programming Tool?](https://www.youtube.com/watch?v=calK4DpJV8A)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="envy13's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=envy13&show_icons=true&hide_border=true" />
-
-</details>
 
 [arriveLinkedin]: https://www.linkedin.com/company/arriveschool/
 [course]: http://vsCodeHero.com
