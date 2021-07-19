@@ -1,24 +1,23 @@
 ### Hi there, I'm Raza 👋
 
-## I'm a Working as Senior Mobile Developer at [<img align="right" width="30px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFWbzjEM-PyNQ/company-logo_200_200/0/1613754938169?e=1634774400&v=beta&t=thQUt-EesgF2p3faVjkIeBN5MEH0X_jVE63-WrDgMbM" />][arriveLinkedin]
+## I'm a Working as Senior Mobile Developer at Arrive[arriveLinkedIn]
 
-- 🔭 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning NodeJs 🤣
+- 👯 I’m looking to Freelance
+- 🥅 2021 Goals: Try to contribute more to Open Source projects
 
 
-[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
+____
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+____
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,13 +43,7 @@
 <br />
 <br />
 
-[arriveLinkedin]: https://www.linkedin.com/company/arriveschool/
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[arriveLinkedIn]: https://www.linkedin.com/company/arriveschool/
+[twitter]: https://twitter.com/raza_nkv
+[linkedin]: https://www.linkedin.com/in/raza-abbas-86981a154/
+
