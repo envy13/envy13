@@ -4,9 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=envy13&label=PROFILE+VIEWS&color=green&style=flat-square)
 
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning TypeScript
 - 👨‍💻 I’m looking to Freelance
-- 🥅 2021 Goals: Try to contribute more to Open Source projects
+- 🥅 2022 Goals: Try to contribute more to Open Source projects
 ___ 
 
 ### Languages and Tools:
