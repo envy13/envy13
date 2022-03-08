@@ -1,6 +1,6 @@
 ### Hi there, I'm Raza 👋
 
-## I'm a Working as Senior Mobile Developer at [Arrive Inc][Arrive]
+<!-- ## I'm a Working as Senior Mobile Developer at [Arrive Inc][Arrive] -->
 
 ![](https://komarev.com/ghpvc/?username=envy13&label=PROFILE+VIEWS&color=green&style=flat-square)
 
