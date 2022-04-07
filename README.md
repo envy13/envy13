@@ -2,7 +2,7 @@
 
 <!-- ## I'm a Working as Senior Mobile Developer at [Arrive Inc][Arrive] -->
 
-![](https://komarev.com/ghpvc/?username=envy13&label=PROFILE+VIEWS&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=razankv13&label=PROFILE+VIEWS&color=green&style=flat-square)
 
 - 🌱 I’m currently learning TypeScript
 - 👨‍💻 I’m looking to Freelance
@@ -22,11 +22,11 @@ ___
 ### Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=envy13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=razankv13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&hide_title=true" />
 </a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envy13&langs_count=8&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razankv13&langs_count=8&hide_title=true" />
 </a> -->
 
 ___ 
