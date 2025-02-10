@@ -48,69 +48,62 @@ Senior Mobile Developer passionate about creating innovative mobile solutions an
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razankv13&theme=tokyonight&border_radius=15" />
 </div>
 
+[Previous content remains the same until Latest Projects section]
+
 ## 🎯 Latest Projects
 
-- 🌟 [ZingData]
-   ZingData is a powerful Flutter application that transforms the way users interact with and analyze data. It provides an intuitive interface for data visualization, analysis, and collaboration.
+### 🌟 ZingData - Advanced Data Analytics Platform
+A powerful Flutter-based mobile analytics platform revolutionizing data visualization and analysis.
 
-## 🌟 Key Features
+**Key Technologies:**
+- 📱 Flutter & Dart
+- 🏗️ Clean Architecture with Riverpod
+- 🔄 GoRouter Navigation
+- 📊 Custom Analytics Engine
+- 🔐 End-to-end Encryption
 
-### 📊 Data Visualization
-- Interactive charts and graphs
-- Real-time data updates
-- Customizable visualization options
-- Support for multiple chart types:
-  - Line charts
-  - Bar charts
-  - Pie charts
-  - Scatter plots
-  - Heat maps
+**Highlights:**
+- Interactive data visualization with real-time updates
+- Cross-platform support with responsive design
+- Advanced analytics with predictive capabilities
+- Secure collaboration features
+- Enterprise-grade security implementation
 
-### 📱 Mobile-First Analytics
-- Responsive design for all screen sizes
-- Touch-optimized interactions
-- Offline capability
-- Cross-platform support (iOS & Android)
+### 🚀 TaskFlow - Smart Project Management
+An intelligent project management solution built for modern teams.
 
-### 🔄 Real-Time Collaboration
-- Live data sharing
-- Team workspaces
-- Comment and annotation features
-- Version control for data sets
+**Key Technologies:**
+- 💻 Flutter & Firebase
+- 🔄 BLoC Pattern
+- 🎯 GetIt Dependency Injection
+- 🔐 Cloud Firestore
+- 📱 Responsive UI
 
-### 🔍 Advanced Analytics
-- Statistical analysis tools
-- Data filtering and sorting
-- Custom calculations
-- Trend analysis
-- Predictive analytics
+**Highlights:**
+- Real-time task tracking and updates
+- Team collaboration tools
+- Resource management
+- Timeline visualization
+- Performance analytics
 
-### 🔐 Security Features
-- End-to-end encryption
-- Role-based access control
-- Secure data storage
-- Authentication integration
-- Data backup and recovery
+### 💻 WeatherScope - Dynamic Weather Application
+A sophisticated weather application providing detailed meteorological data and forecasts.
 
-### 🔌 Integration Capabilities
-- API connectivity
-- Multiple data source support
-- Export functionality
-- Third-party tool integration
+**Key Technologies:**
+- ⚡ Flutter
+- 🌐 RESTful APIs
+- 📊 Custom Charts
+- 🗺️ Google Maps Integration
+- 💾 Hive Local Storage
 
-## 🛠️ Technical Stack
+**Highlights:**
+- Real-time weather updates
+- Interactive radar maps
+- 7-day forecasts
+- Location-based alerts
+- Offline support
 
-- **Frontend**: Flutter
-- **State Management**: Riverpod
-- **Architecture**: Clean Architecture
-- **Navigation**: GoRouter
-- **Data Handling**: Repository Pattern
-- **API Integration**: REST & GraphQL support
-- **Local Storage**: SQLite & Secure Storage
-- **Analytics Engine**: Custom Analytics Module
-
-- 🚀 [Project 2] - Brief description
-- 💻 [Project 3] - Brief description
+[Rest of the content remains the same]
 
 ## 📫 Let's Connect
 
