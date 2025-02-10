@@ -113,6 +113,80 @@ A dynamic Flutter-based mobile application that transforms sports predictions an
 The app combines gaming mechanics with social features to create an addictive and engaging platform for sports prediction enthusiasts.
 
 
+### 🌟 Hero Edge - Advanced Dota 2 Strategy Assistant
+
+A sophisticated Flutter application empowering Dota 2 players with AI-driven insights and strategic analysis for competitive gameplay.
+
+#### 🚀 Key Technologies
+
+##### 📱 Core Stack
+- Flutter & Dart
+- Riverpod for state management
+- GoRouter for navigation
+- Firebase suite (Auth, Firestore, Analytics)
+- Freezed for immutable models
+
+##### 🏗️ Architecture
+- Clean Architecture principles
+- Feature-first organization
+- SOLID principles adherence
+- Repository pattern
+- Dependency injection with Riverpod
+
+##### 🎨 UI Framework
+- Custom theme system
+- Responsive layouts
+- Animated components
+- Material Design 3
+- Custom painters for effects
+
+##### 🔌 Integrations
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Analytics
+- DeepSeek API for AI analysis
+- Cloud Functions
+
+#### ✨ Highlights
+
+##### 1. 🎮 Advanced Game Analysis
+- Real-time draft strategy recommendations
+- Team composition analysis
+- Hero counter suggestions
+- Itemization optimization
+- Meta trend analysis
+
+##### 2. 🔄 Interactive Features
+- Dynamic hero selection interface
+- Real-time draft simulation
+- Interactive item build guides
+- Role-based recommendations
+- Visual skill guides
+
+##### 3. ⚡ Performance & UX
+- Smooth animations and transitions
+- Responsive cross-platform design
+- Offline capability
+- Dark theme optimization
+- Gesture-based interactions
+
+##### 4. 🤖 AI Integration
+- DeepSeek-powered analysis
+- Machine learning predictions
+- Pattern recognition
+- Strategic recommendations
+- Meta analysis
+
+##### 5. 💻 Technical Excellence
+- Modular architecture
+- Clean code practices
+- Comprehensive testing
+- Performance optimization
+- Security best practices
+
+This project represents a modern approach to gaming assistance tools, combining advanced technology with practical gameplay insights in a polished, user-friendly package.
+
+
 ## 📫 Let's Connect
 
 Feel free to reach out for collaborations or just a chat about mobile development!
