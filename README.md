@@ -1,46 +1,68 @@
-### Hi there, I'm Raza 👋
+<div align="center">
+  
+# Hi there, I'm Raza 👋 
 
-<!-- ## I'm a Working as Senior Mobile Developer at [Arrive Inc][Arrive] -->
+[![Profile Views](https://komarev.com/ghpvc/?username=razankv13&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/razankv13)
 
-![](https://komarev.com/ghpvc/?username=razankv13&label=PROFILE+VIEWS&color=green&style=flat-square)
+Senior Mobile Developer passionate about creating innovative mobile solutions and contributing to open-source projects.
 
-- 🌱 I’m currently learning TypeScript
-- 👨‍💻 I’m looking to Freelance
-- 🥅 2022 Goals: Try to contribute more to Open Source projects
-___ 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raza-abbas-86981a154/)
+[<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />](https://github.com/razankv13)
 
-### Languages and Tools:
+</div>
 
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png"/>]
-[<img align="left" alt="NodeJs" width="26px" src="https://image.flaticon.com/icons/png/512/919/919825.png"/>]
-[<img align="left" alt="Java Android" width="26px" src="https://lh3.googleusercontent.com/proxy/ad2C_sUCgjrOEgd5feMm_NkmOE3FD_mxuWLFHT3Lu_xUERvZnwUAOmAM2R7syRU8CrFOrp9rH2bkZyGcGqEvO4LSPd-WNvyxLoeL8v_x-VCJ-w"/>]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />]
-[<img align="left" alt="Jira" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSp_lGWOdt_RuFiipnetNA9KTmmBvh-I0slNt2DB2PTy0zX3gdad4G35e86RJSLS4XYF8&usqp=CAU"/>]
-___
+## 🚀 About Me
 
-### Stats:
+- 🌱 Currently mastering TypeScript and advanced mobile development patterns
+- 💼 Seeking exciting freelance opportunities
+- 🎯 2024-2025 Goals:
+  - Contribute to major open-source projects
+  - Launch a personal mobile app
+  - Expand expertise in cross-platform development
+- 💡 Always learning and sharing knowledge with the developer community
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=razankv13&count_private=true&show_icons=true&theme=material-palenight&border_radius=10px&hide_title=true" />
-</a>
+## 🛠️ Tech Stack
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razankv13&langs_count=8&hide_title=true" />
-</a> -->
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-___ 
+### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Connect with me:
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[<img align="left" alt="Raza | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+## 📊 GitHub Stats
 
-<br />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razankv13&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razankv13&theme=tokyonight&border_radius=15" />
+</div>
 
+## 🎯 Latest Projects
 
+- 🌟 [Project 1] - Brief description
+- 🚀 [Project 2] - Brief description
+- 💻 [Project 3] - Brief description
 
+## 📫 Let's Connect
 
+Feel free to reach out for collaborations or just a chat about mobile development!
 
-[Arrive]: https://www.linkedin.com/company/arriveschool/
-[linkedin]: https://www.linkedin.com/in/raza-abbas-86981a154/
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raza-abbas-86981a154/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/razankv13)
 
+---
+
+<div align="center">
+  <b>Thanks for visiting my profile! Have a great day! 😊</b>
+</div>
