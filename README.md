@@ -50,7 +50,65 @@ Senior Mobile Developer passionate about creating innovative mobile solutions an
 
 ## 🎯 Latest Projects
 
-- 🌟 [Project 1] - Brief description
+- 🌟 [ZingData]
+   ZingData is a powerful Flutter application that transforms the way users interact with and analyze data. It provides an intuitive interface for data visualization, analysis, and collaboration.
+
+## 🌟 Key Features
+
+### 📊 Data Visualization
+- Interactive charts and graphs
+- Real-time data updates
+- Customizable visualization options
+- Support for multiple chart types:
+  - Line charts
+  - Bar charts
+  - Pie charts
+  - Scatter plots
+  - Heat maps
+
+### 📱 Mobile-First Analytics
+- Responsive design for all screen sizes
+- Touch-optimized interactions
+- Offline capability
+- Cross-platform support (iOS & Android)
+
+### 🔄 Real-Time Collaboration
+- Live data sharing
+- Team workspaces
+- Comment and annotation features
+- Version control for data sets
+
+### 🔍 Advanced Analytics
+- Statistical analysis tools
+- Data filtering and sorting
+- Custom calculations
+- Trend analysis
+- Predictive analytics
+
+### 🔐 Security Features
+- End-to-end encryption
+- Role-based access control
+- Secure data storage
+- Authentication integration
+- Data backup and recovery
+
+### 🔌 Integration Capabilities
+- API connectivity
+- Multiple data source support
+- Export functionality
+- Third-party tool integration
+
+## 🛠️ Technical Stack
+
+- **Frontend**: Flutter
+- **State Management**: Riverpod
+- **Architecture**: Clean Architecture
+- **Navigation**: GoRouter
+- **Data Handling**: Repository Pattern
+- **API Integration**: REST & GraphQL support
+- **Local Storage**: SQLite & Secure Storage
+- **Analytics Engine**: Custom Analytics Module
+
 - 🚀 [Project 2] - Brief description
 - 💻 [Project 3] - Brief description
 
