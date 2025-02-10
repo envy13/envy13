@@ -69,41 +69,49 @@ A powerful Flutter-based mobile analytics platform revolutionizing data visualiz
 - Secure collaboration features
 - Enterprise-grade security implementation
 
-### 🚀 TaskFlow - Smart Project Management
-An intelligent project management solution built for modern teams.
+### 🎮 Batal - Virtual Prediction Gaming Platform
 
-**Key Technologies:**
-- 💻 Flutter & Firebase
-- 🔄 BLoC Pattern
-- 🎯 GetIt Dependency Injection
-- 🔐 Cloud Firestore
-- 📱 Responsive UI
+A dynamic Flutter-based mobile application that transforms sports predictions and gaming into an engaging social experience.
 
-**Highlights:**
-- Real-time task tracking and updates
-- Team collaboration tools
-- Resource management
-- Timeline visualization
-- Performance analytics
+#### 🛠️ Key Technologies
+- 📱 Flutter & Dart
+- 🏗️ Clean Architecture with Riverpod
+- 🌐 Internationalization (RTL/LTR Support)
+- 🎯 Google Mobile Ads Integration
+- 🔒 Firebase Authentication & Real-time Database
 
-### 💻 WeatherScope - Dynamic Weather Application
-A sophisticated weather application providing detailed meteorological data and forecasts.
+#### ✨ Core Features
 
-**Key Technologies:**
-- ⚡ Flutter
-- 🌐 RESTful APIs
-- 📊 Custom Charts
-- 🗺️ Google Maps Integration
-- 💾 Hive Local Storage
+##### 🎲 Virtual Prediction System
+- Real-time event tracking
+- Live score updates
+- Virtual coin economy
 
-**Highlights:**
-- Real-time weather updates
-- Interactive radar maps
-- 7-day forecasts
-- Location-based alerts
-- Offline support
+##### 🏆 Social Gaming Elements
+- Competitive leaderboards
+- Referral system
+- Social sharing capabilities
 
-[Rest of the content remains the same]
+##### 💎 Reward Mechanisms
+- Daily login rewards
+- Level progression system
+- VIP membership benefits
+
+##### 🎁 Raffle System
+- Regular giveaways
+- Automated winner selection
+- Prize redemption platform
+
+#### 🔧 Technical Highlights
+- 🔄 State Management with Riverpod
+- 📱 Responsive UI with Material Design
+- 🌍 Multi-language Support
+- ⚡ Custom Animations & Transitions
+- 📊 Analytics Integration
+- 🔐 Privacy-focused Implementation
+
+The app combines gaming mechanics with social features to create an addictive and engaging platform for sports prediction enthusiasts.
+
 
 ## 📫 Let's Connect
 
